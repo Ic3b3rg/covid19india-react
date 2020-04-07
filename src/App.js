@@ -5,6 +5,7 @@ import {
   Route,
   Redirect,
 } from 'react-router-dom';
+import reactDOM from 'react';
 import * as Icon from 'react-feather';
 
 import './App.scss';
